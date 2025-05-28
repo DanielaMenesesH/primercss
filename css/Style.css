@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+}
+header {
+background-color: rgb(109, 218, 181);
+}
+nav {
+background-color: rgb(240, 195, 224);
+}
+footer {
+    background-color: rgb(240, 195, 224);
+}
+li {
+    display: inline-block;
+    width: 200px;
+}
+main {
+    background-color: rgb(243, 223, 177);
+}
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 300%;
+    color: rgb(255, 167, 4);
+}
+p {
+    line-height: 200%;
+}
